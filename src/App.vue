@@ -64,6 +64,7 @@ export default{
     setResults(results){
       this.weather = results;
     },
+    
     dateBuilder(){
      let d = new Date();
       let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -152,7 +153,7 @@ main{
       font-size: 20px;
       font-weight: 300;
       font-style: italic;
-      text-align:center;
+      text-align: center;
       
     }
 
