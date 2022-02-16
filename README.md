@@ -1,5 +1,5 @@
 # weather-app.
-K
+
 
 ## Project setup
 ```
